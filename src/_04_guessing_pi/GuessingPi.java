@@ -21,7 +21,7 @@ double x = 3.14;
 		// 9. If you want to give the user more than one chance to guess,
 		//    put a for loop around steps 4-8.
 for(int i =0;i<3;i++) {
-for(double x = 3.14; x>3;x++) {			// 4. Create a for loop that will step through each digit of pi (steps 5-8)
+//for(double x = 3.14; x>3;x++) {			// 4. Create a for loop that will step through each digit of pi (steps 5-8)
 }		//    NOTE: The number of digits in your string will be
 			//       yourStringVariable.length()
 
